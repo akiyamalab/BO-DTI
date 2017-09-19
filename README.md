@@ -5,7 +5,7 @@ A Bayesian optimization technique enables a short search time for a complex pred
 
 Requirements
 ------------
-- python 2.x
+- Python 3.5.2 |Anaconda 2.4.0
 - 
 - 
 

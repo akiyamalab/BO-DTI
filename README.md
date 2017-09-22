@@ -12,7 +12,7 @@ https://github.com/stephenliu0423/PyDTI.git<br><br>
 https://www.python.org/downloads/release/python-352/<br><br>
 
 また、Pythonパッケージとして、Numpy、scikit-learn (ver. 0.18.1 以上)、scipy、pymatbridge (KBMF2Kを使用する場合のみ必要)を用いている。それぞれのパッケージについては次のURLを参照してください。<br>
-ー　Numpy: http://www.numpy.org/<br>
+−　Numpy: http://www.numpy.org/<br>
 scikit-learn: http://scikit-learn.org/stable/<br>
 scipy: http://www.scipy.org/<br>
 pymatbridge: http://arokem.github.io/python-matlab-bridge/<br><br>

@@ -26,7 +26,7 @@ http://web.kuicr.kyoto-u.ac.jp/supp/yoshi/drugtarget/
 
 Installation
 ------------
-1. Download the archive of xx from this repository.
+1. Download the archive of BO-DTI-master from this repository.
 2. Extract the archive and cd into the extracted directory.
 3. Run make command.
 

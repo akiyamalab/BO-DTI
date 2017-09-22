@@ -17,7 +17,7 @@ https://github.com/stephenliu0423/PyDTI.git
 - scipy: http://www.scipy.org/
 - pymatbridge: http://arokem.github.io/python-matlab-bridge/
 
-スクリプトを実行するためには、Yamanishiらが作成したDrug-Target Interactionデータセットが必要である。データセットは次のURLからダウンロードすることができる。
+スクリプトを実行するためには、Yamanishiらが作成したDrug-Target Interactionデータセットが必要である。データセットは次のURLからダウンロードすることができる。<br>
 http://web.kuicr.kyoto-u.ac.jp/supp/yoshi/drugtarget/
 
 

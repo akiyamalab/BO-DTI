@@ -13,16 +13,16 @@ https://www.python.org/downloads/release/python-352/<br><br>
 
 また、Pythonパッケージとして、Numpy、scikit-learn (ver. 0.18.1 以上)、scipy、pymatbridge (KBMF2Kを使用する場合のみ必要)を用いている。それぞれのパッケージについては次のURLを参照してください。<br>
 −　Numpy: http://www.numpy.org/<br>
-scikit-learn: http://scikit-learn.org/stable/<br>
-scipy: http://www.scipy.org/<br>
-pymatbridge: http://arokem.github.io/python-matlab-bridge/<br><br>
+−　scikit-learn: http://scikit-learn.org/stable/<br>
+−　scipy: http://www.scipy.org/<br>
+−　pymatbridge: http://arokem.github.io/python-matlab-bridge/<br><br>
 
 スクリプトを実行するためには、Yamanishiらが作成したDrug-Target Interactionデータセットが必要である。データセットは次のURLからダウンロードすることができる。<br>
 http://web.kuicr.kyoto-u.ac.jp/supp/yoshi/drugtarget/<br>
-Nuclear receptor  : nr_admat_dgc.txt, nr_simmat_dc.txt, nr_simmat_dg.txt<br>
-GPCR              : gpcr_admat_dgc.txt, gpcr_simmat_dc.txt, gpcr_simmat_dg.txt<br>
-Ion channel       : ic_admat_dgc.txt, ic_simmat_dc.txt, ic_simmat_dg.txt<br>
-Enzyme            :e_admat_dgc.txt, e_simmat_dc.txt, e_simmat_dg.txt<br><br>
+−　nr_admat_dgc.txt, nr_simmat_dc.txt, nr_simmat_dg.txt<br>
+−　gpcr_admat_dgc.txt, gpcr_simmat_dc.txt, gpcr_simmat_dg.txt<br>
+−　ic_admat_dgc.txt, ic_simmat_dc.txt, ic_simmat_dg.txt<br>
+−　e_admat_dgc.txt, e_simmat_dc.txt, e_simmat_dg.txt<br><br>
 
 Installation
 ------------

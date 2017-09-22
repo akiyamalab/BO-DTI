@@ -8,8 +8,8 @@ Requirements
 このスクリプトは、Liuらが開発したPyDTIに基づいて作られた。PyDTIへは次のURLからアクセスすることができる。<br>
 https://github.com/stephenliu0423/PyDTI.git
 
-このスクリプトは、Python 3.5.2 (Anaconda 2.4.0)を使用して作られた。Python3に関しては次のURLを参照してください。<br>
-https://www.python.org/downloads/release/python-352/
+このスクリプトは、Python 3.5.2 (Anaconda 2.4.0)を使用して作られた。Python3.5.2に関しては次のURLを参照してください。<br>
+- Python 3.5.2: https://www.python.org/downloads/release/python-352/
 
 また、Pythonパッケージとして、Numpy、scikit-learn、scipy、pymatbridge (KBMF2Kを使用する場合のみ必要)を用いている。それぞれのパッケージについては次のURLを参照してください。
 - Numpy: 

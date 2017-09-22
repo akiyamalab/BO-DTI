@@ -5,12 +5,21 @@ A Bayesian optimization technique enables a short search time for a complex pred
 
 Requirements
 ------------
-このスクリプトはLiuらが開発したPyDTIに基づいて作られた。PyDTIへは次のURLからアクセスすることができる。<br>
+このスクリプトは、Liuらが開発したPyDTIに基づいて作られた。PyDTIへは次のURLからアクセスすることができる。<br>
 https://github.com/stephenliu0423/PyDTI.git
 
-- Python 3.5.2 |Anaconda 2.4.0
-- 
-- 
+このスクリプトは、Python 3.5.2 (Anaconda 2.4.0)を使用して作られた。Python3に関しては次のURLを参照してください。<br>
+https://www.python.org/downloads/release/python-352/
+
+また、Pythonパッケージとして、Numpy、scikit-learn、scipy、pymatbridge (KBMF2Kを使用する場合のみ必要)を用いている。それぞれのパッケージについては次のURLを参照してください。
+- Numpy: 
+- scikit-learn: 
+- scipy: 
+- pymatbridge: 
+
+スクリプトを実行するためには、Yamanishiらが作成したDrug-Target Interactionデータセットが必要である。データセットは次のURLからダウンロードすることができる。
+http://web.kuicr.kyoto-u.ac.jp/supp/yoshi/drugtarget/
+
 
 Installation
 ------------

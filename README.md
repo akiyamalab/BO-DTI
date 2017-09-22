@@ -19,10 +19,10 @@ https://github.com/stephenliu0423/PyDTI.git
 
 スクリプトを実行するためには、Yamanishiらが作成したDrug-Target Interactionデータセットが必要である。データセットは次のURLからダウンロードすることができる。<br>
 http://web.kuicr.kyoto-u.ac.jp/supp/yoshi/drugtarget/
-- Nuclear receptor: nr_admat_dgc.txt, nr_simmat_dc.txt, nr_simmat_dg.txt
-- GPCR            : gpcr_admat_dgc.txt, gpcr_simmat_dc.txt, gpcr_simmat_dg.txt
-- Ion channel     : ic_admat_dgc.txt, ic_simmat_dc.txt, ic_simmat_dg.txt
-- Enzyme          : e_admat_dgc.txt, e_simmat_dc.txt, e_simmat_dg.txt
+- Nuclear receptor  : nr_admat_dgc.txt, nr_simmat_dc.txt, nr_simmat_dg.txt
+- GPCR              : gpcr_admat_dgc.txt, gpcr_simmat_dc.txt, gpcr_simmat_dg.txt
+- Ion channel       : ic_admat_dgc.txt, ic_simmat_dc.txt, ic_simmat_dg.txt
+- Enzyme            :e_admat_dgc.txt, e_simmat_dc.txt, e_simmat_dg.txt
 
 Installation
 ------------

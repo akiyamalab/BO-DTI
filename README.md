@@ -65,6 +65,13 @@ $ python PyDTI.py --method="nrlmf" --dataset="nr" --cvs=1 --specify-arg=0 --pred
 $ python PyDTI.py --method="nrlmf" --dataset="nr" --cvs=1 --specify-arg=0 --predict-num=0 --gpmi="delta=1e-100 max_iter=2688 n_init=1" --seed="1" --job-id="1"
 ```
 
+Contact
+-------
+このスクリプトは Tomohiro Ban により実装された。<br>
+E-mail: ban@bi.c.titech.ac.jp<br>
+東京工業大学 大学院情報理工学研究科 計算工学専攻<br>
+If you have any questions, please feel free to contact the author.
+
 References
 ----------
 Tomohiro Ban, Masahito Ohue, Yutaka Akiyama: Efficient Hyperparameter Optimization by Using Bayesian Optimization for Drug-Target Interaction Prediction, In _Proceedings of the 7th IEEE International Conference on Computational Advances in Bio and Medical Sciences (ICCABS 2017)_, Orlando, FL, USA, October 19-21, 2017. (accepted) 

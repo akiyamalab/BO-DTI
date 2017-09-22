@@ -56,7 +56,9 @@ Usage
 Example
 -------
 1. グリッドサーチを実行するコマンド
-    $ 
+```shell
+$ python PyDTI.py --method="nrlmf" --dataset="nr" --cvs=1 --specify-arg=0 --predict-num=0 --seed="1" --job-id="1"
+```
 
 2. GPMIを実行するコマンド
 ```shell

@@ -5,6 +5,9 @@ A Bayesian optimization technique enables a short search time for a complex pred
 
 Requirements
 ------------
+このスクリプトはLiuらが開発したPyDTIに基づいて作られた。PyDTIへは次のURLからアクセスすることができる。<br>
+URL
+
 - Python 3.5.2 |Anaconda 2.4.0
 - 
 - 

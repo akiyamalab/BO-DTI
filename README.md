@@ -68,8 +68,10 @@ $ python PyDTI.py --method="nrlmf" --dataset="nr" --cvs=1 --specify-arg=0 --pred
 Contact
 -------
 This scripts was implemented by Tomohiro Ban.<br>
-E-mail: ban@bi.c.titech.ac.jp<br>
-Department of Computer Science, Graduate School of Information Science and Engineering, Tokyo Institute of Technology, Japan<br>
+E-mail: ban@bi.c.titech.ac.jp
+
+Department of Computer Science, Graduate School of Information Science and Engineering, Tokyo Institute of Technology, Japan
+
 If you have any questions, please feel free to contact the author.
 
 References

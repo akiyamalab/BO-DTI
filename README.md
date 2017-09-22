@@ -44,7 +44,7 @@ Usage
 このスクリプトは、Liuらが開発したPyDTIに基づいて作られた。PyDTIへは次のURLからアクセスすることができる。<br>
 https://github.com/stephenliu0423/PyDTI.git
 
-次のオプションを指定することができる。
+You can use the following options
 - 
 - 
 - 

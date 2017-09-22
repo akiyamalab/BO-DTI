@@ -42,10 +42,10 @@ Commands:
 Usage
 -----
 次のオプションを指定することができる<br>
-- gpmi ... グリッドサーチの代わりにGPMI algorithmを使用できる
-    - delta ... 
-    - max_iter ...
-    - n_init ...
+- gpmi ... グリッドサーチの代わりにGPMI algorithmを使用できる<br>
+    - delta ... 探索と利用のバランスを調整する: delta > 0<br>
+    - max_iter ... イテレーションの最大値を指定する (パラメータの組み合わせ数): max_iter > 0<br>
+    - n_init ... 初期サンプル数を指定する: n_init > 0<br>
 - seed ... クロスバリデーションの分割を固定する
 - job-id ... ジョブのidを指定する (指定必須)
 - workdir ... ログファイルを出力するディレクトリを指定する

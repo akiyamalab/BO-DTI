@@ -6,10 +6,10 @@ A Bayesian optimization technique enables a short search time for a complex pred
 Requirements
 ------------
 このスクリプトは、Liuらが開発したPyDTIに基づいて作られた。PyDTIへは次のURLからアクセスすることができる。<br>
-https://github.com/stephenliu0423/PyDTI.git<br>
+https://github.com/stephenliu0423/PyDTI.git<br><br>
 
 このスクリプトは、Python 3.5.2 (Anaconda 2.4.0)を使用して作られた。Python3.5.2に関しては次のURLを参照してください。<br>
-https://www.python.org/downloads/release/python-352/<br>
+https://www.python.org/downloads/release/python-352/<br><br>
 
 また、Pythonパッケージとして、Numpy、scikit-learn (ver. 0.18.1 以上)、scipy、pymatbridge (KBMF2Kを使用する場合のみ必要)を用いている。それぞれのパッケージについては次のURLを参照してください。<br>
 Numpy: http://www.numpy.org/<br>

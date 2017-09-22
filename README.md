@@ -11,11 +11,11 @@ https://github.com/stephenliu0423/PyDTI.git
 このスクリプトは、Python 3.5.2 (Anaconda 2.4.0)を使用して作られた。Python3.5.2に関しては次のURLを参照してください。<br>
 - Python 3.5.2: https://www.python.org/downloads/release/python-352/
 
-また、Pythonパッケージとして、Numpy、scikit-learn、scipy、pymatbridge (KBMF2Kを使用する場合のみ必要)を用いている。それぞれのパッケージについては次のURLを参照してください。
-- Numpy: 
-- scikit-learn: 
-- scipy: 
-- pymatbridge: 
+また、Pythonパッケージとして、Numpy、scikit-learn (ver. 0.18.1 以上)、scipy、pymatbridge (KBMF2Kを使用する場合のみ必要)を用いている。それぞれのパッケージについては次のURLを参照してください。
+- Numpy: http://www.numpy.org/
+- scikit-learn: http://scikit-learn.org/stable/
+- scipy: http://www.scipy.org/
+- pymatbridge: http://arokem.github.io/python-matlab-bridge/
 
 スクリプトを実行するためには、Yamanishiらが作成したDrug-Target Interactionデータセットが必要である。データセットは次のURLからダウンロードすることができる。
 http://web.kuicr.kyoto-u.ac.jp/supp/yoshi/drugtarget/

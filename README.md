@@ -35,9 +35,9 @@ Commands:
     $ cd BO-DTI-master
     $ mkdir dataset
     $ cp ~/Downloads/*_admat_dgc.txt dataset
-    $ cp ~/Downloads/*_admat_dgc.txt dataset
-    $ cp ~/Downloads/*_simmat_dc.txt dataset
-    $ cp ~/Downloads/*_simmat_dg.txt dataset
+    $ cp ~/Downloads/*_simmat_dc.txt dataset
+    $ cp ~/Downloads/*_simmat_dg.txt dataset
+
     
 Usage
 -----

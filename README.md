@@ -57,12 +57,12 @@ Example
 -------
 1. Command to execute grid search
 ```shell
-$ python PyDTI.py --method="nrlmf" --dataset="nr" --cvs=1 --specify-arg=0 --predict-num=0 --seed="1" --job-id="1"
+$ python PyDTI.py --method="nrlmf" --dataset="nr" --cvs=1 --specify-arg=0 --predict-num=0 --seed="1" --job-id="1" --workdir="."
 ```
 
 2. Command to execute GPMI algorithm
 ```shell
-$ python PyDTI.py --method="nrlmf" --dataset="nr" --cvs=1 --specify-arg=0 --predict-num=0 --gpmi="delta=1e-100 max_iter=2688 n_init=1" --seed="1" --job-id="1"
+$ python PyDTI.py --method="nrlmf" --dataset="nr" --cvs=1 --specify-arg=0 --predict-num=0 --gpmi="delta=1e-100 max_iter=2688 n_init=1" --seed="1" --job-id="1" --workdir="."
 ```
 
 Contact

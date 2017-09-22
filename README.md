@@ -5,19 +5,19 @@ A Bayesian optimization technique enables a short search time for a complex pred
 
 Requirements
 ------------
-このスクリプトは、Liuらが開発したPyDTIに基づいて作られた。PyDTIへは次のURLからアクセスすることができる。<br>
+This script was created based on PyDTI developed by Liu et al. PyDTI can be accessed from the following URL.<br>
 https://github.com/stephenliu0423/PyDTI.git<br><br>
 
-このスクリプトは、Python 3.5.2 (Anaconda 2.4.0)を使用して作られた。Python3.5.2に関しては次のURLを参照してください。<br>
+This script was created using Python 3.5.2 (Anaconda 2.4.0). For Python 3.5.2 please refer to the following URL.<br>
 https://www.python.org/downloads/release/python-352/<br><br>
 
-また、Pythonパッケージとして、Numpy、scikit-learn (ver. 0.18.1 以上)、scipy、pymatbridge (KBMF2Kを使用する場合のみ必要)を用いている。それぞれのパッケージについては次のURLを参照してください。<br>
+In addition, we use Numpy, scikit-learn (ver. 0.18.1 and above), scipy, pymatbridge (required only when using KBMF 2K) as Python package. For each package please refer to the following URL.<br>
 −　Numpy: http://www.numpy.org/<br>
 −　scikit-learn: http://scikit-learn.org/stable/<br>
 −　scipy: http://www.scipy.org/<br>
-−　pymatbridge: http://arokem.github.io/python-matlab-bridge/<br><br>
+−　pymatbridge: http://arokem.github.io/python-matlab-bridge/<br>
 
-スクリプトを実行するためには、Yamanishiらが作成したDrug-Target Interactionデータセットが必要である。データセットは次のURLからダウンロードすることができる。<br>
+In order to execute the script, the Drug-Target Interaction data set created by Yamanishi et al. Is necessary. The data set can be downloaded from the following URL.<br>
 http://web.kuicr.kyoto-u.ac.jp/supp/yoshi/drugtarget/<br>
 −　nr_admat_dgc.txt, nr_simmat_dc.txt, nr_simmat_dg.txt<br>
 −　gpcr_admat_dgc.txt, gpcr_simmat_dc.txt, gpcr_simmat_dg.txt<br>
@@ -41,16 +41,16 @@ Commands:
     
 Usage
 -----
-次のオプションを指定することができる<br>
-- gpmi ... グリッドサーチの代わりにGPMI algorithmを使用できる<br>
-    - delta ... 探索と利用のバランスを調整する: delta > 0<br>
-    - max_iter ... イテレーションの最大値を指定する (パラメータの組み合わせ数): max_iter > 0<br>
-    - n_init ... 初期サンプル数を指定する: n_init > 0<br>
-- seed ... クロスバリデーションの分割を固定する
-- job-id ... ジョブのidを指定する (指定必須)
-- workdir ... ログファイルを出力するディレクトリを指定する
+You can specify the following options<br>
+- gpmi ... GPMI algorithm can be used instead of grid search<br>
+    - delta ... Adjust the balance between exploration and usage: delta > 0<br>
+    - max_iter ... Specify the maximum value of iteration (number of combinations of parameters): max_iter > 0<br>
+    - n_init ... Specify the initial number of samples: n_init > 0<br>
+- seed ... Fix the division of cross validation
+- job-id ... Specify the job id
+- workdir ... ログファイルを出力するデSpecify the directory to output log filesィレクトリを指定する
 
-その他はPyDTIを参照してください
+For other, please refer to PyDTI
 
 
 Example

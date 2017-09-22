@@ -30,8 +30,9 @@ Installation
 Commands:
 
     $ cd BO-DTI-master
-    $ 
-    
+    $ mkdir dataset
+    $ 
+    
 Usage
 -----
 

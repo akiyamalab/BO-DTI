@@ -45,9 +45,6 @@ Usage
 https://github.com/stephenliu0423/PyDTI.git
 
 You can use the following options
-- 
-- 
-- 
 
 Example
 -------

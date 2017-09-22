@@ -6,10 +6,10 @@ A Bayesian optimization technique enables a short search time for a complex pred
 Requirements
 ------------
 This script was created based on PyDTI developed by Liu et al. PyDTI can be accessed from the following URL.<br>
-https://github.com/stephenliu0423/PyDTI.git<br><br>
+https://github.com/stephenliu0423/PyDTI.git<br>
 
 This script was created using Python 3.5.2 (Anaconda 2.4.0). For Python 3.5.2 please refer to the following URL.<br>
-https://www.python.org/downloads/release/python-352/<br><br>
+https://www.python.org/downloads/release/python-352/<br>
 
 In addition, we use Numpy, scikit-learn (ver. 0.18.1 and above), scipy, pymatbridge (required only when using KBMF 2K) as Python package. For each package please refer to the following URL.<br>
 −　Numpy: http://www.numpy.org/<br>
@@ -22,7 +22,7 @@ http://web.kuicr.kyoto-u.ac.jp/supp/yoshi/drugtarget/<br>
 −　nr_admat_dgc.txt, nr_simmat_dc.txt, nr_simmat_dg.txt<br>
 −　gpcr_admat_dgc.txt, gpcr_simmat_dc.txt, gpcr_simmat_dg.txt<br>
 −　ic_admat_dgc.txt, ic_simmat_dc.txt, ic_simmat_dg.txt<br>
-−　e_admat_dgc.txt, e_simmat_dc.txt, e_simmat_dg.txt<br><br>
+−　e_admat_dgc.txt, e_simmat_dc.txt, e_simmat_dg.txt<br>
 
 Installation
 ------------

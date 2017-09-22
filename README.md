@@ -29,7 +29,7 @@ Installation
 
 Commands:
 
-    $ 
+    $ cd BO-DTI-master
     $ 
     
 Usage

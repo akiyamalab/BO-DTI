@@ -70,7 +70,8 @@ Contact
 This scripts was implemented by Tomohiro Ban.<br>
 E-mail: ban@bi.c.titech.ac.jp
 
-Department of Computer Science, Graduate School of Information Science and Engineering, Tokyo Institute of Technology, Japan
+Department of Computer Science, Graduate School of Information Science and Engineering, Tokyo Institute of Technology, Japan<br>
+http://www.bi.cs.titech.ac.jp/web/
 
 If you have any questions, please feel free to contact the author.
 

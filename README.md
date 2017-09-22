@@ -31,7 +31,7 @@ Commands:
 
     $ cd BO-DTI-master
     $ mkdir dataset
-    $ cp *.txt dataset
+    $ mkdir dataset
     
 Usage
 -----

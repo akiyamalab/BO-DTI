@@ -29,9 +29,9 @@ Installation
 
 Commands:
 
-    $ 
-    $ 
-    $ 
+    $ cd BO-DTI-master
+    $ mkdir dataset
+    $ cp <dataset files> dataset
 
     
 Usage

@@ -6,7 +6,7 @@ A Bayesian optimization technique enables a short search time for a complex pred
 Requirements
 ------------
 
-## Python
+#### Python
 This script was created using Python 3.5.2 (Anaconda 2.4.0). For Python 3.5.2 please refer to the following URL.<br>
 https://www.python.org/downloads/release/python-352/<br>
 

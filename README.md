@@ -7,7 +7,7 @@ Requirements
 ------------
 
 ### Python
-You need to use Python 3.x for executing this scripts. We recommends that you use Anaconda 2.4.0. This script was created by using Python 3.5.2. For Python 3.5.2 please refer to the following URL.<br>
+You need to use Python 3.x for executing this scripts. We recommends that you use Anaconda 2.4.0 to set up python environment. This script was created by using Python 3.5.2. For Python 3.5.2 please refer to the following URL.<br>
 https://www.python.org/downloads/release/python-352/<br>
 
 ### Python packages

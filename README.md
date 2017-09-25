@@ -49,7 +49,7 @@ You can specify the following options<br>
     - n_init ... Specify the initial number of samples: n_init > 0<br>
 - seed ... Fix the division of cross validation
 - job-id ... Specify the job id
-- workdir ... ログファイルを出力するデSpecify the directory to output log filesィレクトリを指定する
+- workdir ... Specify the directory to output log files
 
 For other, please refer to PyDTI
 

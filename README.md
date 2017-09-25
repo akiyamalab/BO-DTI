@@ -10,12 +10,14 @@ Requirements
 This script was created using Python 3.5.2 (Anaconda 2.4.0). For Python 3.5.2 please refer to the following URL.<br>
 https://www.python.org/downloads/release/python-352/<br>
 
+### Python packages
 In addition, we use Numpy, scikit-learn (ver. 0.18.1 and above), scipy, pymatbridge (required only when using KBMF 2K) as Python package. For each package please refer to the following URL.<br>
 −　Numpy: http://www.numpy.org/<br>
 −　scikit-learn: http://scikit-learn.org/stable/<br>
 −　scipy: http://www.scipy.org/<br>
 −　pymatbridge: http://arokem.github.io/python-matlab-bridge/<br>
 
+### Datasets
 In order to execute the script, the Drug-Target Interaction data set created by Yamanishi et al. Is necessary. The data set can be downloaded from the following URL.<br>
 http://web.kuicr.kyoto-u.ac.jp/supp/yoshi/drugtarget/<br>
 −　nr_admat_dgc.txt, nr_simmat_dc.txt, nr_simmat_dg.txt<br>

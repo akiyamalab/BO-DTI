@@ -5,9 +5,8 @@ A Bayesian optimization technique enables a short search time for a complex pred
 
 Requirements
 ------------
-This script was created based on PyDTI developed by Liu et al. PyDTI can be accessed from the following URL.<br>
-https://github.com/stephenliu0423/PyDTI.git<br>
 
+## Python
 This script was created using Python 3.5.2 (Anaconda 2.4.0). For Python 3.5.2 please refer to the following URL.<br>
 https://www.python.org/downloads/release/python-352/<br>
 
@@ -64,6 +63,11 @@ $ python PyDTI.py --method="nrlmf" --dataset="nr" --cvs=1 --specify-arg=0 --pred
 ```shell
 $ python PyDTI.py --method="nrlmf" --dataset="nr" --cvs=1 --specify-arg=0 --predict-num=0 --gpmi="delta=1e-100 max_iter=2688 n_init=1" --seed="1" --job-id="1" --workdir="."
 ```
+
+Acknowledgement
+---------------
+This script was created based on PyDTI developed by Liu et al. PyDTI can be accessed from the following URL.<br>
+https://github.com/stephenliu0423/PyDTI.git<br>
 
 Contact
 -------

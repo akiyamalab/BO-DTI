@@ -73,17 +73,18 @@ https://github.com/stephenliu0423/PyDTI.git<br>
 
 Contact
 -------
-This scripts was implemented by Tomohiro Ban.<br>
+These scripts was implemented by Tomohiro Ban.<br>
 E-mail: ban@bi.c.titech.ac.jp
 
-Department of Computer Science, Graduate School of Information Science and Engineering, Tokyo Institute of Technology, Japan<br>
-http://www.bi.cs.titech.ac.jp/web/
+Department of Computer Science, School of Computing, Tokyo Institute of Technology, Japan<br>
+http://www.bi.cs.titech.ac.jp/
 
 If you have any questions, please feel free to contact the author.
 
 References
 ----------
-Tomohiro Ban, Masahito Ohue, Yutaka Akiyama: Efficient Hyperparameter Optimization by Using Bayesian Optimization for Drug-Target Interaction Prediction, In _Proceedings of the 7th IEEE International Conference on Computational Advances in Bio and Medical Sciences (ICCABS 2017)_, Orlando, FL, USA, October 19-21, 2017. (accepted) 
+Tomohiro Ban, Masahito Ohue, Yutaka Akiyama: Efficient Hyperparameter Optimization by Using Bayesian Optimization for Drug-Target Interaction Prediction, In _Proceedings of the 7th IEEE International Conference on Computational Advances in Bio and Medical Sciences (ICCABS 2017)_, 6 pages, Orlando, FL, USA, October 19-21, doi:10.1109/ICCABS.2017.8114299, 2017. 
+https://doi.org/10.1109/ICCABS.2017.8114299
 
 (Conference Website) http://www.iccabs.org/
 

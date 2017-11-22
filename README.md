@@ -39,7 +39,6 @@ Commands:
     $ cp ~/Downloads/*_simmat_dc.txt dataset
     $ cp ~/Downloads/*_simmat_dg.txt dataset
 
-    
 Usage
 -----
 You can specify the following options<br>

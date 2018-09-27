@@ -98,7 +98,7 @@ def nrlmf_cv_eval(method,dataset,cv_data,intMat,Kd,Kt,cvs,para,logger,scoring='a
                     for z in np.arange(-5, 1):
                         for t in np.arange(-3, 1):
                             tic = time.clock()
-                            model = NRLMF(cfix=para['c'], K1=para['K1'], K2=para['K2'], num_factors=r, lambda_d=2**(x), lambda_t=2**(x), alpha=2**(y), beta=2**(z), theta=2**(t), max_iter=100)
+                            model = NRLMF(cfix=para['c'], K1=para['K1'], K2=para['K2'], num_factors=r, lambda_d=2.**(x), lambda_t=2.**(x), alpha=2.**(y), beta=2.**(z), theta=2.**(t), max_iter=100)
                             cmd = "Dataset:"+dataset+" CVS: "+str(cvs)+"\n"+str(model)
                             logger.info(cmd)
                             aupr_vec, auc_vec = train(model, cv_data, intMat, Kd, Kt)
@@ -202,7 +202,7 @@ def cmf_cv_eval(method, dataset, cv_data, X, D, T, cvs, para):
             for y in np.arange(-3, -2):
                 for z in np.arange(-3, -2):
                     tic = time.clock()
-                    model = CMF(K=d, lambda_l=2**(x), lambda_d=2**(y), lambda_t=2**(z), max_iter=30)
+                    model = CMF(K=d, lambda_l=2.**(x), lambda_d=2.**(y), lambda_t=2.**(z), max_iter=30)
                     cmd = "Dataset:"+dataset+" CVS: "+str(cvs)+"\n"+str(model)
                     print(cmd)
                     aupr_vec, auc_vec = train(model, cv_data, X, D, T)

@@ -82,7 +82,7 @@ If you have any questions, please feel free to contact the author.
 
 References
 ----------
-Tomohiro Ban, Masahito Ohue, Yutaka Akiyama: Efficient Hyperparameter Optimization by Using Bayesian Optimization for Drug-Target Interaction Prediction, In _Proceedings of the 7th IEEE International Conference on Computational Advances in Bio and Medical Sciences (ICCABS 2017)_, 6 pages, Orlando, FL, USA, October 19-21, doi:10.1109/ICCABS.2017.8114299, 2017. 
+Tomohiro Ban, Masahito Ohue, Yutaka Akiyama: **Efficient Hyperparameter Optimization by Using Bayesian Optimization for Drug-Target Interaction Prediction**, In _Proceedings of the 7th IEEE International Conference on Computational Advances in Bio and Medical Sciences (ICCABS 2017)_, 6 pages, Orlando, FL, USA, October 19-21, doi:10.1109/ICCABS.2017.8114299, 2017. 
 https://doi.org/10.1109/ICCABS.2017.8114299
 
 (Conference Website) http://www.iccabs.org/

@@ -87,5 +87,6 @@ https://doi.org/10.1109/ICCABS.2017.8114299
 
 (Conference Website) http://www.iccabs.org/
 
+<br>
 
-Copyright © 2017 Akiyama_Laboratory, Tokyo Institute of Technology, All Rights Reserved.  
+Copyright © 2017 Akiyama Laboratory, Tokyo Institute of Technology, All Rights Reserved.  
